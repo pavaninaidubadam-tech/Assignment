@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Timetable</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 70%;
+            margin: 20px auto;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2 style="text-align:center;">Weekly Timetable</h2>
+
+<table>
+    <tr>
+        <th>Day</th>
+        <th>9–10</th>
+        <th>10–11</th>
+        <th>11–12</th>
+        <th>12–1</th>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>Math</td>
+        <td>English</td>
+        <td>Science</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>Physics</td>
+        <td>Chemistry</td>
+        <td>Math</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>English</td>
+        <td>Computer</td>
+        <td>Science</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>Math</td>
+        <td>Physics</td>
+        <td>Chemistry</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td>Computer</td>
+        <td>English</td>
+        <td>Math</td>
+        <td>Break</td>
+    </tr>
+</table>
+
+</body>
+</html>
